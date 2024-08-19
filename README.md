@@ -1,1 +1,3 @@
 # Retail-Forecasting-for-a-Large-Beverage-Company
+## Project Statement:
+The project aims to create multivariate forecasting models using AI/ML to anticipate weekly beverage demand at the item level. The organization presently employs an internal software program, but it has trouble managing the different time series patterns in the data that are impacted by trends, seasonality, and holidays. The goal is to replace this approach with parallel-operating, more accurate and efficient ML/Deep Learning models that provide insights into variable contributions for explainability, ideally with PySpark.
